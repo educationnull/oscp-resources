@@ -43,6 +43,9 @@ Post Exploitation:
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet 
 - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
 
+SQLi:
+- https://sqlwiki.netspi.com/
+
 Tutorials:
 - http://www.primalsecurity.net/tutorials/exploit-tutorials/ 
 - https://samsclass.info/127/proj/vuln-server.htm 

@@ -53,6 +53,7 @@ Tutorials:
 - https://www.corelan.be/ 
 
 ## Reddit/ Blog Posts
+- https://www.reddit.com/r/AskNetsec/comments/6jxndc/taking_oscp_exam/
 - https://www.reddit.com/r/hacking/comments/7nkmfc/road_to_oscp/
 - https://www.reddit.com/r/hacking/comments/5fww1e/lets_do_it_again_i_am_a_lead_penetration_tester/
 - https://www.reddit.com/r/AskNetsec/comments/6rjao8/giving_the_oscp_exam_tomorrow_any_tips/

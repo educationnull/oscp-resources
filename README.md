@@ -33,6 +33,9 @@ Windows:
 - [Bobby: 1](https://www.vulnhub.com/entry/bobby-1,42/)
 
 ## Cheatsheets/ How-to's
+The kitchen sink:
+- https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
 Payloads:
 - https://netsec.ws/?p=331 
 
